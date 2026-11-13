@@ -1,67 +1,75 @@
-<h1>
-  <img width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Hi, I'm Arthur Ziliani
-</h1>
+<h1>👋 Hi, I'm Arthur Ziliani</h1>
 
 **Aspiring AI Engineer** | Data Analyst | Internet Systems student | Computer Networks background
 
 I build data-driven and AI-powered systems. I started in computer networks, moved into web development and
-data analysis, and I'm now focused on AI Engineering: turning models and LLMs into applications that work in
+data analysis, and I'm now focused on AI Engineering: turning LLMs and data into applications that work in
 real systems.
 
-- 💼 Data Analyst
-- 🎓 Finishing Internet Systems; AI Engineering extension in progress
-- 🔭 Building: <!-- EDIT: describe your current AI project, e.g. "a RAG chatbot over company documents" -->
-- 🌱 Learning: <!-- EDIT: only what you are really studying, e.g. LLM APIs, RAG, vector databases, MLOps -->
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arthur-z-2b1b13123/) <!-- EDIT: add e-mail -->
+- 💼 Data Analyst at Priner
+- 🎓 Finishing Internet Systems
+- 🧠 Postgraduate in Applied AI Engineering (in progress)
+- 🌱 Learning: LLM APIs, RAG, AI agents, MCP
+- 📫 [LinkedIn](https://www.linkedin.com/in/arthur-z-2b1b13123/)
 
 ---
 
 ## 🧮 Tech Stack
 
-**AI & Data**
+**Day to day**
 
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL / Azure SQL" />
-<!-- ADD only what you really use, e.g. pandas, scikit-learn, Jupyter:
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="pandas" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" />
--->
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-**Web / Backend**
+**Learning now (AI Engineering)**
 
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" />
-&nbsp;
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" />
+<p>
+<img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge" alt="LLM APIs" />
+<img src="https://img.shields.io/badge/RAG-0A7E8C?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/AI%20Agents-5B2A86?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+**Also exploring**
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ## 📊 Most used languages (public + private)
 
-<!-- Generated automatically by .github/workflows/metrics.yml -->
 <img src="./github-metrics.svg" alt="GitHub metrics and most used languages" />
 
 ---
 
-## 🚀 Featured projects
+## 🚀 AI projects roadmap
 
-<!-- EDIT: pin 3 to 6 projects on your profile and describe the best ones here. Template:
+Projects I'm building along my Applied AI Engineering track. Links will be added as each one is published.
 
-### [Project name](link)
-One line about what it does and the problem it solves.
-**Stack:** Python, ...  |  **Highlights:** what you built (model, API, pipeline, RAG...)
--->
+- [ ] **RAG system**: semantic search over documents with embeddings and a vector database
+- [ ] **MCP server**: exposing a service to LLM clients through the Model Context Protocol
+- [ ] **Autonomous agent**: planning, tool use and persistent memory with LangGraph
+- [ ] **Fine-tuned model** for a specific domain
+- [ ] **Capstone micro-SaaS**: RAG + agents + MCP, with back-end, front-end and CI/CD
+
+<!-- When a project is done, replace its line with: **[Name](link)**: what it does. Stack: ... -->
 
 ---
 
-⭐ If something here is useful to you, feel free to connect.
+⭐ Open to Junior AI Engineer and data roles. Feel free to connect.
