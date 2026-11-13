@@ -6,7 +6,7 @@ I build data-driven and AI-powered systems. I started in computer networks, move
 data analysis, and I'm now focused on AI Engineering: turning LLMs and data into applications that work in
 real systems.
 
-- 💼 Data Analyst at Priner
+- 💼 Data Analyst
 - 🎓 Finishing Internet Systems
 - 🧠 Extension in Applied AI Engineering (in progress)
 - 🌱 Learning: LLM APIs, RAG, AI agents, MCP
