@@ -8,7 +8,7 @@ real systems.
 
 - 💼 Data Analyst at Priner
 - 🎓 Finishing Internet Systems
-- 🧠 Postgraduate in Applied AI Engineering (in progress)
+- 🧠 Extension in Applied AI Engineering (in progress)
 - 🌱 Learning: LLM APIs, RAG, AI agents, MCP
 - 📫 [LinkedIn](https://www.linkedin.com/in/arthur-z-2b1b13123/)
 
