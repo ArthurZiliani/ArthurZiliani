@@ -14,8 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Personal access token (classic) with "repo" scope, saved as the secret METRICS_TOKEN.
-          # The "repo" scope is what lets the languages plugin read your PRIVATE repositories.
           token: ${{ secrets.METRICS_TOKEN }}
           user: ArthurZiliani
           template: classic
@@ -23,7 +21,6 @@ jobs:
           config_timezone: America/Sao_Paulo
           filename: github-metrics.svg
           commit_message: "chore: update github metrics"
-          # Most used languages, counting private repos
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
